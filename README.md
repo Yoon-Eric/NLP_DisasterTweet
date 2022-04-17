@@ -1,0 +1,4 @@
+- First NLP project
+- Used a public [dataset](https://www.kaggle.com/competitions/nlp-getting-started/data) on Kaggle
+- Objective: Make a model that can accurately classify if a tweet about natural disaster is true or not
+- Personal goal: learn as much as I can about various machine learning algorithms and techniques
